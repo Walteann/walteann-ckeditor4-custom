@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "lib ckeditor4-custom com mentions full tools",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walteann/walteann-ckeditor4-custom.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
