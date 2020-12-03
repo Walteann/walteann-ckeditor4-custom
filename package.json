@@ -1,0 +1,14 @@
+{
+  "name": "walteann-ckeditor4-custom",
+  "version": "1.0.0",
+  "description": "lib ckeditor4-custom com mentions full tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ckeditor4-custom-mentions-full"
+  ],
+  "author": "Walteann Costa",
+  "license": "ISC"
+}
